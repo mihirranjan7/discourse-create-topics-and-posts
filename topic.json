@@ -1,0 +1,14 @@
+{
+    "title": "Single Topic Example",
+    "body": "This is a body for a single topic.",
+    "category": 1,
+    "image_url": "http://example.com/image.jpg",
+    "image_position": "end",
+    "formatting": {
+        "bold": true,
+        "italic": false,
+        "header": true
+    },
+    "embed_url": "http://example.com",
+    "external_id": "12345"
+}
